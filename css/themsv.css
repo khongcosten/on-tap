@@ -1,0 +1,16 @@
+.container{
+	border: 1px solid black;
+	width: 450px;
+	margin: 0 auto;
+	background: #999933;
+}
+.tieude, .nhomnut{
+	text-align: center;
+}
+.nhomtext,.nhomnut{
+	margin: 20px;
+}
+.nut1{
+	margin: 10px;
+	background: #FF9933;
+}

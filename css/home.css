@@ -1,0 +1,17 @@
+
+/*làm mờ các đường viền giữa các ô trong bảng*/
+table {
+	border-collapse: collapse;
+	text-align: center;
+}
+
+/*tạo ra viền 1px đen xung quanh chúng*/
+table , th , td{
+	border: 1px solid black;
+}
+.thaotac{
+	padding-right: 50px;
+}
+.sua{
+	margin-left: 10px;
+}

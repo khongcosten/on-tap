@@ -1,0 +1,19 @@
+.container{
+	width: 400px;
+	margin: 0 auto;
+	border: 1px solid black;
+	background: #CC9999;
+}
+.hi{
+	text-align: center;
+}
+.nhomtext{
+	padding: 10px;
+}
+.nhomnut{
+	text-align: center;
+	margin: 20px;
+}
+.nutsua{
+	background: #FF9999;
+}
